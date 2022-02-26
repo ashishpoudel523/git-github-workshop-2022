@@ -34,7 +34,7 @@ Please browse any exisiting [issues](https://github.com/kucc1997/git-github-work
 Contribution Steps:
 
  - Fork this repository.
- - Clone the forked repository to your machine.
+ - Clone the forked repository to your machine. 
  - Create a new branch named after the issue you're working on.
  - Commit your changes, push the changes to GitHub.
  - Open a pull request [here](https://github.com/kucc1997/git-github-workshop-2022/pulls)
