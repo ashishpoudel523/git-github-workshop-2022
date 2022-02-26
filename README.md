@@ -1,5 +1,5 @@
 
-# Git & GitHub: All you need to know 
+# Git & GitHub: All you need to know ..
 
 **Hello everyone! This is a profile-card website made with React.js for Git-GitHub Workshop**
 <br>
