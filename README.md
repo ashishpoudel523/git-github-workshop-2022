@@ -25,7 +25,7 @@ https://kucc-git-github-2022.netlify.app/
 https://bit.ly/githubkucontent
 
 
-## How to contribute?
+## How to  contribute?
 
 Contributions are higly appreciated. It could be new features, bug-fix, documentation and others.
 
