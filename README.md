@@ -5,7 +5,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/51237312/151941440-36d967c9-b67a-4f38-aef6-28e4a119c71f.png" width=600 heigt=800/>
 
-## Installation - Project Setup
+## Installation - Project Setup 
 
 The project requries [Node.js](https://nodejs.org/en/download/) v14 or above. 
 
